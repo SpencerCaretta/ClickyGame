@@ -1,50 +1,62 @@
 [
     {
       "id": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Amy",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/FuturamaAmyWong.png"
     },
     {
       "id": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Bender",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Bender_Rodriguez.png"
     },
     {
       "id": 3,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Flexo",
+      "image": "https://gamepedia.cursecdn.com/futuramaworldsoftomorrow_gamepedia_en/5/51/Goal_Flexo.png"
     },
     {
       "id": 4,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Fry",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Philip_Fry.png"
     },
     {
       "id": 5,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Hermes",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hermes_Conrad_promo_pic.png"
     },
     {
       "id": 6,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Kif",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/8/82/Lieutenant_Kif_Kroker.png/revision/latest?cb=20101013084718"
     },
     {
       "id": 7,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Leela",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Turanga_Leela.png"
     },
     {
       "id": 8,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Mom",
+      "image": "https://gamepedia.cursecdn.com/futuramaworldsoftomorrow_gamepedia_en/0/08/Motherly_Mom.png"
     },
     {
       "id": 9,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Nibbler",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/2/26/Lord_Nibbler.png/revision/latest?cb=20101013083936"
     },
     {
       "id": 10,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Professor",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/FuturamaProfessorFarnsworth.png"
     },
     {
       "id": 11,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Zapp",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/e/e9/Zapp_Brannigan.png/revision/latest/scale-to-width-down/314?cb=20101013084300"
     },
     {
       "id": 12,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
+      "name": "Zoidberg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Dr_John_Zoidberg.png"
     }
 ]

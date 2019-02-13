@@ -15,14 +15,9 @@ class Score extends React.Component {
     //Render method to return JSX
     render() {
         return (
-            <div className="card text-center">
-                <div className="card header bg-primary text-white">
-                    ClickyGame
-                </div>
-                <div className="card-body">
-                    <p className="card-text">Score: {this.state.score}</p>
-                </div>
-            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li>Score: {this.state.score || 0}</li>
+            </ul>
         )
     }
 

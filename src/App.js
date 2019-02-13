@@ -1,8 +1,10 @@
 import React, { Component } from "react";
 import CharacterCard from "./components/CharacterCard";
-import Score from "./components/Score";
 import Wrapper from "./components/Wrapper";
+// import Score from "./components/Score";
 import characters from "./characters.json";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 class App extends Component {
     //setting our list of characters = to the state
@@ -10,19 +12,32 @@ class App extends Component {
       characters
     };
 
+    //function to change the order of the characters after a character is clicked
+    randomOrder = () => {
+
+    }
+    //update the id to say it has been clicked on, but not remove the character from the page
+
+
+    
+
     //rendering the page
     render() {
       return (
         <Wrapper>
-          <Score />
-          {this.state.friends.map(character => (
-            <CharacterCard
-              id={character.id}
-              key={character.id}
-              image={character.image}
-            />
-          ))}
+          <Header />
+          <Wrapper>
+            {this.state.characters.map(character => (
+              <CharacterCard
+                id={character.id}
+                key={character.id}
+                image={character.image}
+              />
+            ))}
+          </Wrapper>
+          <Footer />
         </Wrapper>
+
       );
     }
 
