@@ -10,10 +10,10 @@ function Header(props) {
                 <div class="navbar-header">
                     <a class="navbar-brand" href="/">ClickyGame</a>
                 </div>
-                <ul class="nav navbar-nav">
+                <ul class="nav navbar-nav" id = "overheadText">
                     <li>{props.overheadText}</li>
                 </ul>
-                <span className = "nav navbar-nav navbar-right">
+                <span className = "nav navbar-nav navbar-right" id = "score">
                     Score: {props.playerScore}
                 </span>
             </div>

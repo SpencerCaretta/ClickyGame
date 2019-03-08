@@ -2,5 +2,9 @@
     background-color: #6CADDC;
     width: 100%;
     color: white;
-    
+    font-weight: bold;
+}
+
+#score, #overheadText {
+    font-size: 20px;
 }
