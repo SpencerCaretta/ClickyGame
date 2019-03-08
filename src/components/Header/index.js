@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Score from "../Score";
+// import Score from "../Score";
 
 function Header(props) {
     return (
@@ -11,9 +11,11 @@ function Header(props) {
                     <a class="navbar-brand" href="/">ClickyGame</a>
                 </div>
                 <ul class="nav navbar-nav">
-                    <li>Click an Image to Begin</li>
+                    <li>{props.overheadText}</li>
                 </ul>
-                <Score />
+                <span className = "nav navbar-nav navbar-right">
+                    Score: {props.playerScore}
+                </span>
             </div>
         </nav>
     )
