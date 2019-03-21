@@ -1,3 +1,12 @@
+This application is a React-based memory game where the user clicks different pictures, the pictures are randomized after each click, 
+until either they click all twelve pictures or click on the same picture twice.  Either situation leads to a game over and allows the 
+user to start the game again by clicking on a new picture.  Currently, once you get twelve correct, if you click on a new picture, the 
+game will indicate you have one and you can play again by selecting any picture.
+
+The Game can be found here: https://clickygame-sc.herokuapp.com/
+
+![App Pictured](/Desktop/ReadMePics/ClickyGame.JPG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
