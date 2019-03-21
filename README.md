@@ -5,7 +5,7 @@ game will indicate you have one and you can play again by selecting any picture.
 
 The Game can be found here: https://clickygame-sc.herokuapp.com/
 
-![App Pictured](Desktop/ReadMePics/ClickyGame.JPG)
+![ClickyGame](https://user-images.githubusercontent.com/2687576/54735896-8587bb80-4b76-11e9-8f0e-6529bfbf8f74.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
